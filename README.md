@@ -1,29 +1,12 @@
 # vue-dropzone
+ . Reference:
+ - [Drag and Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
 
-This template should help get you started developing with Vue 3 in Vite.
+ - [Grid](https://ag-grid.com/vue-data-grid/row-dragging/)
 
-## Recommended IDE Setup
+ - [Drag row in table](https://codepen.io/forbesg/pen/VBLjwQ)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+ - [Vue useDraggle](https://vueuse.org/core/useDraggable/), [Vue useDropzone](https://vueuse.org/core/useDropZone/)
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+ - [Tutorial no library](https://www.youtube.com/watch?v=wWKhKPN_Pmw&list=PLVJZjCprNXtXcfk9aIDfGj_JMYri1UXOi&ab_channel=JohnKomarnicki)
+ - [Repo](https://github.com/johnkomarnicki/vue-3-dropzone/blob/main/app/src/components/DropZone.vue)
